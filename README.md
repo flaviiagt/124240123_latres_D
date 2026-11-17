@@ -1,6 +1,6 @@
 # nim_latres_D - Toko Awikwok
 
-Latihan Responsi Praktikum Mobile SI-D. Aplikasi toko online dengan data produk dari
+Latihan Responsi Praktikum Mobile SI-D. Data produk diambil dari dari
 `https://dummyjson.com/products`.
 
 ## Library
